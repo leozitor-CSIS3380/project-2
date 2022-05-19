@@ -1,2 +1,2 @@
-# project-2
-project 2 - Adding Page Number Links
+# Project 2
+## Adding Page Number Links
